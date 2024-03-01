@@ -11,6 +11,19 @@ body{
 #container{
     background-image: linear-gradient(103.24deg, rgba(255, 123, 0, 0.836) 46.1%, rgba(255, 187, 0, 0.664) 96.1%), url(https://assets.nflxext.com/ffe/siteui/vlv3/530fc327-2ddb-4038-a3f0-2da2d9ccede1/81c68250-e0f1-4cd8-bf2d-4fd8222163de/BR-pt-20230619-popsignuptwoweeks-perspective_alpha_website_large.jpg);
     background-size: cover;
-    height: 700px;
+    height: 780px;
     padding: 40px;
+}
+ 
+footer {
+    background-image: linear-gradient(103.24deg, rgba(255, 123, 0, 0.836) 46.1%, rgba(255, 187, 0, 0.664) 96.1%), url(https://assets.nflxext.com/ffe/siteui/vlv3/530fc327-2ddb-4038-a3f0-2da2d9ccede1/81c68250-e0f1-4cd8-bf2d-4fd8222163de/BR-pt-20230619-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    color:  rgb(255, 123, 0);
+    padding: 5px 0;
+    text-align: 20;
+    position: fixed;
+    bottom: 0;
+    width: 1900px;
+    height: 90px
+    
+    
 }
