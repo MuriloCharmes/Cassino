@@ -14,13 +14,20 @@ body{
 }
  
 footer {
-    background-color:orange;
-    padding: 5px 0;
-    text-align: 20;
-    position: fixed;
-    bottom: 0;
+    background-color: #333;
+    color: #fff;
     width: 2000px;
-    height: 90px
-    
-    
+    height: 70px;
+    bottom: 0;
+    position: fixed;
+    padding: 20px;
+    text-align: center;
+    border-top: 4px solid #ffffff; /* Cor personalizada para a borda superior */
+}
+footer p {
+    margin: 0;
+}
+footer a {
+    color: #ff9900da; /* Cor personalizada para os links no footer */
+    text-decoration: none;
 }
